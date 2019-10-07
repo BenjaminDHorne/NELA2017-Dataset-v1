@@ -1,5 +1,7 @@
 # NELA2017 Dataset
 
+**This dataset is now hosted on Harvard Dataverse, along with other news datasets: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/ZCXSKG**
+
 NELA2017 Data Set Version 1
 
 If this data set is used in publication, please cite the following paper:
